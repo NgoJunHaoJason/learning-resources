@@ -14,9 +14,10 @@
 
 ## Software System Architecture and Design
 
-| Resource                                                                                                           | Type | Length    |
-| ------------------------------------------------------------------------------------------------------------------ | ---- | --------- |
-| [Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)                     | book |           |
-| [System Design Interview (volume 1)](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | book |           |
-| [System Design Interview (volume 2)](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)  | book |           |
-| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | book | 613 pages |
+| Resource                                                                                                           | Type          | Length    |
+| ------------------------------------------------------------------------------------------------------------------ | ------------- | --------- |
+| [The Only Unbreakable Law](https://www.youtube.com/watch?v=5IUj1EZwpJY)                                            | Youtube video | 53 mins   |
+| [Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)                     | book          |           |
+| [System Design Interview (volume 1)](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | book          |           |
+| [System Design Interview (volume 2)](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)  | book          |           |
+| [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | book          | 613 pages |
