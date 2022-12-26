@@ -1,2 +1,3 @@
-# learning-resources
-Learning Resources
+# Learning Resources
+
+[Computer Science](computer_science/README.md)
