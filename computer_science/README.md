@@ -2,9 +2,10 @@
 
 ## In General
 
-| Resource                                                        | Type        | Length                         |
-| --------------------------------------------------------------- | ----------- | ------------------------------ |
-| [Teach Yourself Computer Science](https://teachyourselfcs.com/) | compilation | 9 subject, 100-200 h per topic |
+| Resource                                                                                                     | Type        | Length                         |
+| ------------------------------------------------------------------------------------------------------------ | ----------- | ------------------------------ |
+| [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) | article     | long                           |
+| [Teach Yourself Computer Science](https://teachyourselfcs.com/)                                              | compilation | 9 subject, 100-200 h per topic |
 
 ## Data Structures And Algorithms
 
