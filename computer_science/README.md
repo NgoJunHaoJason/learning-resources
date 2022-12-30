@@ -13,6 +13,12 @@
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------- |
 | [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) | Youtube playlist | 32 videos, 1+ h per video |
 
+## Database
+
+| Resource                                                                                       | Type          | Length |
+| ---------------------------------------------------------------------------------------------- | ------------- | ------ |
+| [SQLite: The Database at the Edge of the Network](https://www.youtube.com/watch?v=Jib2AmRb_rk) | Youtube video | 1 h    |
+
 ## Software System Architecture and Design
 
 | Resource                                                                                                           | Type          | Length    |
