@@ -2,9 +2,19 @@
 
 ## Markup Languages
 
-| Resource                                         | Type     | Length    |
-| ------------------------------------------------ | -------- | --------- |
-| [HTML Tutorial](https://www.w3schools.com/html/) | tutorial | very long |
+### HTML
+
+| Resource                                                               | Type     | Length    |
+| ---------------------------------------------------------------------- | -------- | --------- |
+| [HTML Tutorial](https://www.w3schools.com/html/)                       | tutorial | very long |
+| [HTML Math Symbols](https://www.toptal.com/designers/htmlarrows/math/) |          |           |
+
+### Markdown
+
+| Resource                                                                                                                 | Type | Length |
+| ------------------------------------------------------------------------------------------------------------------------ | ---- | ------ |
+| [The Markdown Guide](https://www.markdownguide.org/)                                                                     |      |        |
+| [Writing Mathematic Fomulars in Markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/) |      |        |
 
 ## Programming Languages
 
