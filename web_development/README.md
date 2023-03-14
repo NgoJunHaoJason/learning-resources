@@ -13,6 +13,7 @@
 | [React, React Redux and Redux Saga](https://www.udemy.com/course/react-redux-saga/)                   | Udemy course | 7 h    |
 | [React Patterns](https://reactpatterns.com/)                                                          |              |        |
 | [React Testing Library Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet) |              |        |
+| [Developer way](https://www.developerway.com/)                                                        | blog         |        |
 
 ## Back End Development
 
