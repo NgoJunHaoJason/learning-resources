@@ -1,5 +1,13 @@
 # Software Craftsmanship
 
+## Blogs
+
+| Resource                                          | Type | Length |
+| ------------------------------------------------- | ---- | ------ |
+| [Critter Blog](https://critter.blog/)             | blog |        |
+| [Clean Coder Blog](https://blog.cleancoder.com/)  | blog |        |
+| [Martin Fowler's Blog](https://martinfowler.com/) | blog |        |
+
 ## Being a Software Craftsman
 
 | Resource                                                                                                         | Type          | Length    |
@@ -15,7 +23,6 @@
 | ---------------------------------------------------------------------------------------------------------------- | ------------- | --------- |
 | [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)                   | article       | short     |
 | [Be good-argument-driven, not data-driven](https://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html) | article       |           |
-| [Critter Blog](https://critter.blog/)                                                                            | blog          |           |
 | [Being Glue](https://www.youtube.com/watch?v=5cr2Yn_MrKg&t=5s)                                                   | Youtube video | 33 mins   |
 | [LeadDev](https://leaddev.com/)                                                                                  | website       |           |
 | [Drive](https://www.danpink.com/books/drive/)                                                                    | book          | 247 pages |
