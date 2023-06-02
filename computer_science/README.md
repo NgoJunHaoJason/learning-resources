@@ -28,3 +28,12 @@
 | [System Design Interview (volume 1)](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) | book          |           |
 | [System Design Interview (volume 2)](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)  | book          |           |
 | [Designing Data-Intensive Applications](https://dataintensive.net/)                                                | book          | 613 pages |
+
+## Georgia Tech OMSCS
+
+| Resource                                                                                                            | Type   | Length    |
+| ------------------------------------------------------------------------------------------------------------------- | ------ | --------- |
+| [CS7646 ML4T course videos](https://omscs.gatech.edu/cs-7646-machine-learning-trading-course-videos)                | videos | 3 parts   |
+| [CS7638 RAIT / AI4R course videos](https://omscs.gatech.edu/cs-7638-artificial-intelligence-robotics-course-videos) | videos | 6 topics  |
+| [CS6601 AI course videos](https://omscs.gatech.edu/cs-6601-artificial-intelligence-course-videos)                   | videos | 10 topics |
+| [CS7641 ML course videos](https://omscs.gatech.edu/cs-7641-machine-learning-course-videos)                          | videos | 3 parts   |
