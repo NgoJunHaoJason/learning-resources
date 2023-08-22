@@ -23,9 +23,10 @@
 
 ## Specification and Testing
 
-| Resource                                        | Type    | Length |
-| ----------------------------------------------- | ------- | ------ |
-| [Pact Test Introduction](https://docs.pact.io/) | article | short  |
+| Resource                                                                                                                          | Type    | Length       |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------ |
+| [A Simpler Testing Pyramid: Getting the Most out of Your Tests ](https://www.infoq.com/articles/testing-pyramid-slow-fast-tests/) | article | 10 mins read |
+| [Pact Test Introduction](https://docs.pact.io/)                                                                                   | article | short        |
 
 ## DevOps
 
